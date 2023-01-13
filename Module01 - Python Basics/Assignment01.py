@@ -5,6 +5,7 @@
 #               to press "Enter" to end the program.
 
 
+# Print statement requesting user input
 print("Please Enter Your First and Last Name...")
 
 # Establishing user input variables for first and last name; prompt users to enter first and last name
